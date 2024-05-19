@@ -26,4 +26,7 @@ This application is a simple desktop application for receiving, tracking, and ma
 
 This application is developed using local variables and arrays. There is no integration with a database or the use of external storage methods.
 
+ 
+![](https://github.com/bariss30/C--Restaurant-Order/blob/main/images/Blank%202%20Grids%20Collage.png)
 
+![](https://github.com/bariss30/C--Restaurant-Order/blob/main/images/Blank%203%20Grids%20Collage.png)
